@@ -1,4 +1,4 @@
-"use ctrict";
+"use ctrict"
 // Кнопка НАВЕРХ
 
 const btnUp = {
