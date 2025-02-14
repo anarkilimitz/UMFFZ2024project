@@ -158,7 +158,7 @@ nav {
 	font-weight: bold;
 	font-size: 1.5rem;
 	line-height: 1.5;
-	background-color: #f57c00;
+	background-color: rgba(0, 0, 0, 0.592);
 	border-top-left-radius: 0.5rem;
 	border-top-right-radius: 0.5rem;
 }
